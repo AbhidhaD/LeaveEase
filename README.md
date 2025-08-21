@@ -61,7 +61,7 @@ It provides role-based dashboards, real-time leave tracking, and automated balan
 ## 📦 Project Setup
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/praneesha17/LeaveEase.git
+git clone https://github.com/AbhidhaD/LeaveEase.git
 cd LeaveEase
 ### 2️⃣ Create Virtual Environment
 python -m venv env
